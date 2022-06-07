@@ -1,1 +1,1 @@
-# This is an introduction into typescript. To experiment with run live server on file 'dist/index.html' and in the console run 'tsc --watch'
+# This is an introduction into typescript. To experiment with the typescript examples, run live server on file 'dist/index.html' and in the console run 'tsc --watch'
